@@ -30,7 +30,7 @@ function equate(){
     let userdata = ["varun","mahi","praveen","pavan","reshma","lokesh"];
     let passworddata = ["varun","mahi","praveen","pavan","reshma","lokesh"];
     
-    for(var i=0;i<2;i++){
+    for(var i=0;i<6;i++){
       console.log("for looped")
 
       if (username == userdata[i] && password == passworddata[i]){  
