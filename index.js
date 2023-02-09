@@ -1,7 +1,7 @@
 document.getElementById("#submit").addEventListener("click",click);
 
 function click() {
-            var a = new Audio("./sound/click1.wav");
+            var a = new Audio("./click1.wav");
             a.play();
 }
 
